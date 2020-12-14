@@ -240,6 +240,24 @@
     <Compile Include="src\tutorial\TutorialHelper.cs" />
     <Compile Include="src\tutorial\TutorialPhase.cs" />
     <Compile Include="src\tutorial\TutorialState.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Assertion.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Assertions.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Boolean.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Equality.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\File.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Is.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\ObjectX.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Property.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Range.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Signal.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\StringX.cs" />
+    <Compile Include="addons\WAT\core\assertions\CSharp\Utility.cs" />
+    <Compile Include="addons\WAT\core\test\Recorder.cs" />
+    <Compile Include="addons\WAT\core\test\Test.cs" />
+    <Compile Include="tests\MicrobeResistanceStub.cs" />
+    <Compile Include="tests\MicrobeStub.cs" />
+    <Compile Include="tests\OrganelleTemplateStub.cs" />
+    <Compile Include="tests\ThriveTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="StyleCop.ruleset" />

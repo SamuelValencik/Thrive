@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<testsuites failures="0" name="TestXML" tests="1" time="1.827">
+<testsuite failures="0" name="WAT unit tests" tests="25" time="0.004">
+<testcase name="CheckFluidVelocity" time="0.013">
+</testcase>
+<testcase name="CheckFluidVelocity" time="0.001">
+</testcase>
+<testcase name="CheckFluidVelocity" time="0.001">
+</testcase>
+<testcase name="CheckFluidVelocity" time="0.001">
+</testcase>
+<testcase name="CheckFluidVelocity" time="0">
+</testcase>
+<testcase name="CheckConvertToWorld" time="0.005">
+</testcase>
+<testcase name="CheckConvertToWorld" time="0">
+</testcase>
+<testcase name="CheckConvertToWorld" time="0">
+</testcase>
+<testcase name="CheckConvertToWorld" time="0">
+</testcase>
+<testcase name="CheckIfDead" time="0.119">
+</testcase>
+<testcase name="CheckIfDead" time="0.003">
+</testcase>
+<testcase name="CheckIfDead" time="0.001">
+</testcase>
+<testcase name="CheckIfDead" time="0.001">
+</testcase>
+<testcase name="CheckIfDead" time="0">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.004">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.002">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.004">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.004">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.001">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.001">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.001">
+</testcase>
+<testcase name="CheckHPAfterDamage" time="0.001">
+</testcase>
+<testcase name="CheckGetBarColor" time="0.002">
+</testcase>
+<testcase name="CheckGetBarColor" time="0">
+</testcase>
+<testcase name="CheckGetBarColor" time="0.001">
+</testcase>
+</testsuite>
+</testsuites>

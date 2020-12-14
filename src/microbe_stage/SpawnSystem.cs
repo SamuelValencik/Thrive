@@ -136,6 +136,7 @@ public class SpawnSystem
     public void DespawnAll()
     {
         queuedSpawns = null;
+
         var spawnedEntities = worldRoot.GetTree().GetNodesInGroup(Constants.SPAWNED_GROUP);
 
         foreach (Node entity in spawnedEntities)
